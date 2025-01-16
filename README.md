@@ -29,7 +29,3 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ![image](https://github.com/user-attachments/assets/56195a5b-0257-4f65-beb2-c0dc63e083a0)
 
 
-## Complete Tutorial
-I have created a detailed 3+ hour tutorial on this project, where you will execute everything from start to end
-
-https://youtu.be/yZKJFKu49Dk
